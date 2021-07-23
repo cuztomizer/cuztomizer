@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://bublup-media-production.s3.amazonaws.com/X6V8wYSM-6oPJpYhGA-OoA/images/medium_007-im-7fcd6416-ebce-4eb4-8413-5e66aa3d7a73.jpg" width="250" />
+  <img src=https://raw.githubusercontent.com/cuztomizer/cuztomizer/master/assets/gabrielfamily.png" width="250" />
   <h1 align="center">
     Gabriel Jimenez
   </h1>
