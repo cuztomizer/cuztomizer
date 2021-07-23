@@ -50,14 +50,6 @@ I make magic happen.
       <td width="25%" align="center">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
       </td>
-       </td>
-      <td width="25%" align="center">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
-      </td>
-   </td>
-      <td width="25%" align="center">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
-      </td>
     </tr>
   </tbody>
 </table>
