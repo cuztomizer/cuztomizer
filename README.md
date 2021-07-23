@@ -65,8 +65,8 @@ I make magic happen.
 
 ## How to reach me
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamesrsingleton)
-[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Design__Pattern)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-jimenez-ba1aa810/)
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jimenezgabe)
 
 ![Gabriel Jimenez's github stats](https://github-readme-stats.vercel.app/api?username=cuztomizer&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuztomizer&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
