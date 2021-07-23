@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JamesSingleton/JamesSingleton/master/assets/avatar.png" width="250" />
+  <img src="https://raw.githubusercontent.com/cuztomizer/cuztomizer/master/assets/avatar.png" width="250" />
   <h1 align="center">
     Gabriel Jimenez
   </h1>
@@ -61,5 +61,5 @@ I make magic happen.
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Design__Pattern)
 
 ![Gabriel Jimenez's github stats](https://github-readme-stats.vercel.app/api?username=cuztomizer&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuztomizern&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuztomizer&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
 
