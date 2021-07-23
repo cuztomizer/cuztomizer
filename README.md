@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://app.photobucket.com/u/cuztomiz/p/3bc74c68-a912-41be-893c-43aeae4f760d?mode=zoom" width="250" />
+  <img src=https://bublup-media-production.s3.amazonaws.com/X6V8wYSM-6oPJpYhGA-OoA/images/medium_007-im-7fcd6416-ebce-4eb4-8413-5e66aa3d7a73.jpg" width="250" />
   <h1 align="center">
     Gabriel Jimenez
   </h1>
