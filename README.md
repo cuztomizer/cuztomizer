@@ -35,8 +35,8 @@ I make magic happen.
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-          <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg" alt="Next.js Logo" />
+        <a href="https://java.org/" target="_blank" rel="noopener noreferrer">
+          <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java Logo" />
         </a>
       </td>
       <td width="25%" align="center">
