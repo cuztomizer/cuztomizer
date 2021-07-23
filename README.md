@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cuztomizer/cuztomizer/master/assets/avatar.png" width="250" />
+  <img src="https://app.photobucket.com/u/cuztomiz/p/3bc74c68-a912-41be-893c-43aeae4f760d?mode=zoom" width="250" />
   <h1 align="center">
     Gabriel Jimenez
   </h1>
