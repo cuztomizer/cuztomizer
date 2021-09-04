@@ -37,12 +37,6 @@ I make magic happen.
         <a href="https://java.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java Logo" />
         </a>
-      </td> 
-        <td width="25%" align="center">
-        <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Logo" /></a>
-      </td>
-      <td width="25%" align="center">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
       </td>
     </tr>
     <tr valign="top">
@@ -71,16 +65,9 @@ I make magic happen.
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/>
         </a>
       </td>
-        <td width="25%" align="center">
-        <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Logo" /></a>
-      </td>
-      <td width="25%" align="center">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
-      </td>
     </tr>
   </tbody>
 </table>
-
 
 
 ## How to reach me
