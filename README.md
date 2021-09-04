@@ -32,30 +32,33 @@ I make magic happen.
         <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" /></a>
       </td>
     </tr>
-    <tr valign="top">
+   
+     
       <td width="25%" align="center">
         <a href="https://java.org/" target="_blank" rel="noopener noreferrer">
           <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java Logo" />
         </a>
       </td>
+      
       <td width="25%" align="center">
         <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
         </a>
       </td>
-        <td width="25%" align="center">
+        
+      <td width="25%" align="center">
         <a href="https://docs.soliditylang.org/en/v0.8.7/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity Logo" />
         </a>
       </td>
-       </td>
-        <td width="25%" align="center">
+       
+      <td width="25%" align="center">
         <a href="https://ethereum.org/en/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" alt="Ethereum  Logo" />
         </a>
       </td>
-      https://ethereum.org/en/dapps/#explore
-      
+     
+       <tr valign="top">
       
       
       <td width="25%" align="center">
