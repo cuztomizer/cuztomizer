@@ -32,14 +32,14 @@ I make magic happen.
         <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" /></a>
       </td>
     </tr>
-   
+    
      
       <td width="25%" align="center">
         <a href="https://java.org/" target="_blank" rel="noopener noreferrer">
           <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java Logo" />
         </a>
       </td>
-      
+       <tr valign="top">
       <td width="25%" align="center">
         <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
@@ -57,17 +57,21 @@ I make magic happen.
         <img height="64px" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" alt="Ethereum  Logo" />
         </a>
       </td>
-     
-       <tr valign="top">
-      
-      
+ 
       <td width="25%" align="center">
-        <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Logo" /></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+          <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Logo" /></a>
       </td>
+       
       <td width="25%" align="center">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+          <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
       </td>
+       
     </tr>
+    
+    
+    
   </tbody>
 </table>
 
