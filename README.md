@@ -4,8 +4,6 @@
   </h1>
 </p>
 
-[![Mail](https://img.shields.io/badge/jimenez.gabe@gmail.com-%E2%9C%89%20Email%20Me-57e?style=for-the-badge)](mailto:jimenez.gabe@gmail.com)
-![Cuztomizer Views](https://komarev.com/ghpvc/?username=cuztomizer&label=Profile%20Views&color=aabbff&style=flat-square)
 
 
 ## What I Do
@@ -78,6 +76,9 @@ I make magic happen.
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-jimenez-ba1aa810/)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jimenezgabe)
+[![Mail](https://img.shields.io/badge/jimenez.gabe@gmail.com-%E2%9C%89%20Email%20Me-57e?style=for-the-badge)](mailto:jimenez.gabe@gmail.com)
+![Cuztomizer Views](https://komarev.com/ghpvc/?username=cuztomizer&label=Profile%20Views&color=aabbff&style=flat-square)
+
 
 ![Gabriel Jimenez's github stats](https://github-readme-stats.vercel.app/api?username=cuztomizer&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuztomizer&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
