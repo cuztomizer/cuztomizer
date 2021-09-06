@@ -77,6 +77,9 @@ I make magic happen.
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-jimenez-ba1aa810/)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jimenezgabe)
 [![Mail](https://img.shields.io/badge/jimenez.gabe@gmail.com-%E2%9C%89%20Email%20Me-57e?style=for-the-badge)](mailto:jimenez.gabe@gmail.com)
+
+
+## Profile Views
 ![Cuztomizer Views](https://komarev.com/ghpvc/?username=cuztomizer&label=Profile%20Views&color=aabbff&style=flat-square)
 
 
