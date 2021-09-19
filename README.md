@@ -12,6 +12,7 @@ I make magic happen.
 
 ## Technology I Use
 
+# Presentation Tier
 <table>
   <tbody>
     <tr valign="top">
@@ -70,6 +71,12 @@ I make magic happen.
     </tr>
   </tbody>
 </table>
+
+# Application Tier
+
+# Database Tier
+
+# Mobile 
 
 
 ## How to reach me
