@@ -23,7 +23,6 @@ I make magic happen.
         </a>
       </td>
       
-      
       <td width="20%" align="center">
         CSS
         <a href="https://devdocs.io/css/" target="_blank" rel="noopener noreferrer">
