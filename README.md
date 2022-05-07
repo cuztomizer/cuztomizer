@@ -37,6 +37,7 @@ I make magic happen.
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
         </a>
       </td>
+      
       <td width="20%" align="center">
         React
         <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
@@ -44,19 +45,23 @@ I make magic happen.
         </a>
       </td>
     </tr>
-    <tr valign="top">
+    
+    <tr valign="bottom">
       <td width="20%" align="center">
         <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
         </a>
+        
       </td>
         <td width="20%" align="center">
         <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
         </a>
       </td>
+      
     </tr>
   </tbody>
+  
 </table>
 
 #### Application Tier
