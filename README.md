@@ -34,9 +34,7 @@ I make magic happen.
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
         </a>
       </td>
-     
-
-    
+      </tr>
     <tr valign="top">
       <td width="20%" align="center">
         React
