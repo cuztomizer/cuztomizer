@@ -17,6 +17,7 @@ I make magic happen.
   <tbody>
     <tr valign="top">
        <td width="20%" align="center">
+         HTML
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" />
         </a>
