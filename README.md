@@ -65,9 +65,14 @@ I make magic happen.
 <table>
   <tbody>
     <tr valign="top">
-       <td width="20%" align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" />
+        <td width="20%" align="center">
+        <a href="https://java.org/" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java Logo" />
+        </a>
+      </td>
+      <td width="20%" align="center">
+        <a href=https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Logo" />
         </a>
       </td>
       <td width="20%" align="center">
@@ -80,23 +85,8 @@ I make magic happen.
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
         </a>
       </td>
-      <td width="20%" align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://java.org/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java Logo" />
-        </a>
-      </td>
     </tr>
     <tr valign="top">
-      <td width="20%" align="center">
-        <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
-        </a>
-      </td>
       <td width="20%" align="center">
         <a href="https://docs.soliditylang.org/en/v0.8.7/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity Logo" />
