@@ -17,23 +17,26 @@ I make magic happen.
   <tbody>
     <tr valign="top">
        <td width="20%" align="center">
-      
+             HTML
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" />
-             HTML
+      
         </a>
       </td>
       <td width="20%" align="center">
+        CSS
         <a href="https://devdocs.io/css/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3 Logo" />
         </a>
       </td>
       <td width="20%" align="center">
+        JavaScript
         <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
         </a>
       </td>
       <td width="20%" align="center">
+        React
         <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" />
         </a>
@@ -43,11 +46,6 @@ I make magic happen.
       <td width="20%" align="center">
         <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/>
         </a>
       </td>
     </tr>
@@ -241,6 +239,11 @@ I make magic happen.
        <td width="20%" align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" />
+        </a>
+      </td>
+         <td width="20%" align="center">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/>
         </a>
       </td>
       <td width="20%" align="center">
