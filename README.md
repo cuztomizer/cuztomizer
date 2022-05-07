@@ -20,15 +20,17 @@ I make magic happen.
              HTML
         <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" />
-      
         </a>
       </td>
+      
+      
       <td width="20%" align="center">
         CSS
         <a href="https://devdocs.io/css/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3 Logo" />
         </a>
       </td>
+      
       <td width="20%" align="center">
         JavaScript
         <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
@@ -44,6 +46,11 @@ I make magic happen.
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
+        <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
+        </a>
+      </td>
+        <td width="20%" align="center">
         <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
         </a>
