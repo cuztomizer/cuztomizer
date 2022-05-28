@@ -90,6 +90,7 @@ I make magic happen.
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
+       Solidity
         <a href="https://docs.soliditylang.org/en/v0.8.7/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity Logo" />
         </a>
