@@ -66,11 +66,13 @@ I make magic happen.
   <tbody>
     <tr valign="top">
         <td width="20%" align="center">
+          Java
         <a href="https://java.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java Logo" />
         </a>
       </td>
       <td width="20%" align="center">
+        Spring
         <a href=https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Logo" />
         </a>
