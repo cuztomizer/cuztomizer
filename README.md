@@ -78,13 +78,13 @@ I make magic happen.
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://devdocs.io/css/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3 Logo" />
+        <a href="https://vertx.io/" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Vertx Logo" />
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
+        <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin Logo" />
         </a>
       </td>
     </tr>
