@@ -97,7 +97,7 @@ I make magic happen.
       </td>
       <td width="20%" align="center">
         <a href="https://ethereum.org/en/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" alt="Ethereum  Logo" />
+        <img height="64px" src="[https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png](https://ethereum.org/en/assets/)" alt="Ethereum  Logo" />
         </a>
       </td>
       <td width="20%" align="center">
