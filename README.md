@@ -128,11 +128,13 @@ I make magic happen.
         </a>
       </td>
       <td width="20%" align="center">
+      MySql
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="CSS3 Logo" />
         </a>
       </td>
       <td width="20%" align="center">
+      Couchbase
         <a href="https://www.couchbase.com/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://www.couchbase.com/webfiles/1655904784241/images/couchbase_logo_black.svg" alt="Couchbase Logo" />
         </a>
