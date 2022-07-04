@@ -78,11 +78,13 @@ I make magic happen.
         </a>
       </td>
       <td width="20%" align="center">
+        Vert.x                         
         <a href="https://vertx.io/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vert.x_Logo.svg/1200px-Vert.x_Logo.svg.png" alt="Vertx Logo" />
         </a>
       </td>
       <td width="20%" align="center">
+        Kotlin                         
         <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin Logo" />
         </a>
@@ -120,6 +122,7 @@ I make magic happen.
   <tbody>
     <tr valign="top">
        <td width="20%" align="center">
+        PostgreSQL                        
         <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" />
         </a>
