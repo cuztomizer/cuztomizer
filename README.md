@@ -96,6 +96,7 @@ I make magic happen.
         </a>
       </td>
       <td width="20%" align="center">
+        Ethereum
         <a href="https://ethereum.org/en/" target="_blank" rel="noopener noreferrer">
         <img height="64px" src="https://ethereum.org/static/4f10d2777b2d14759feb01c65b2765f7/b7d3e/eth-glyph-colored.png" alt="Ethereum  Logo" />
         </a>
