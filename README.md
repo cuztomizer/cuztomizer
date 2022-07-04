@@ -130,7 +130,7 @@ I make magic happen.
       </td>
       <td width="20%" align="center">
         <a href="https://www.couchbase.com/" target="_blank" rel="noopener noreferrer">
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
+        <img height="64px" src="https://www.couchbase.com/webfiles/1655904784241/images/couchbase_logo_black.svg" alt="Couchbase Logo" />
         </a>
       </td>
       <td width="20%" align="center">
