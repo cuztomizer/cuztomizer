@@ -2,9 +2,11 @@
 
 <div align="center">
   
-### 🚀 Full-Stack Developer | Blockchain Enthusiast | Code Architect
+### 🚀 Full-Stack Developer | Blockchain Enthusiast 
 
-*"I don't just write code, I craft digital experiences that make a difference"*
+*"I don't just write code, I craft secure digital experiences that make a difference"*
+
+🔐 **Strong expertise in Security, Authentication & Authorization**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Engineer;Problem+Solver;Coffee+%2B+Code+%3D+Magic)](https://git.io/typing-svg)
 
@@ -106,7 +108,7 @@ I transform ideas into reality through code. Whether it's building responsive we
     <tr valign="top">
       <td width="33%" align="center">
         <span>Ethereum</span><br><br>
-        <img height="64px" src="https://ethereum.org/static/4f10d2777b2d14759feb01c65b2765f7/b7d3e/eth-glyph-colored.png" alt="Ethereum Logo" />
+        <img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg" alt="Ethereum Logo" />
       </td>
       <td width="33%" align="center">
         <span>Solidity</span><br><br>
@@ -132,17 +134,25 @@ I transform ideas into reality through code. Whether it's building responsive we
 <table>
   <tbody>
     <tr valign="top">
-      <td width="33%" align="center">
+      <td width="20%" align="center">
         <span>PostgreSQL</span><br><br>
-        <img height="64px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" />
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL Logo" />
       </td>
-      <td width="33%" align="center">
+      <td width="20%" align="center">
         <span>MySQL</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL Logo" />
       </td>
-      <td width="33%" align="center">
-        <span>Couchbase</span><br><br>
-        <img height="64px" src="https://www.couchbase.com/webfiles/1655904784241/images/couchbase_logo_black.svg" alt="Couchbase Logo" />
+      <td width="20%" align="center">
+        <span>MongoDB</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB Logo" />
+      </td>
+      <td width="20%" align="center">
+        <span>Cassandra</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cassandra.svg" alt="Cassandra Logo" />
+      </td>
+      <td width="20%" align="center">
+        <span>Oracle</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg" alt="Oracle Logo" />
       </td>
     </tr>
   </tbody>
@@ -150,7 +160,9 @@ I transform ideas into reality through code. Whether it's building responsive we
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -190,25 +202,6 @@ I transform ideas into reality through code. Whether it's building responsive we
 - 🌱 Exploring advanced blockchain development patterns
 - 🤝 Open to collaborating on innovative projects
 - 💬 Ask me about full-stack development, blockchain, or coffee ☕
-
----
-
-## 🌟 Fun Facts
-
-```javascript
-const gabriel = {
-  pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "Java", "Python", "Solidity"],
-  technologies: {
-    frontend: ["React", "HTML5", "CSS3"],
-    backend: ["Node.js", "Spring Boot", "Python"],
-    blockchain: ["Solidity", "Ethereum", "Web3"],
-    databases: ["PostgreSQL", "MySQL", "Couchbase"]
-  },
-  currentlyLearning: "Advanced Smart Contract Security",
-  funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
 
 ---
 
