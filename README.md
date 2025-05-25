@@ -1,14 +1,14 @@
-# 👋 Hey! I'm Gabriel Jimenez
+# I am Gabriel Jimenez
 
 <div align="center">
   
-### 🚀 Full-Stack Developer | Blockchain Enthusiast 
+### 🚀 Full-Stack Developer | Blockchain Enthusiast | Security Expert
 
 *"I don't just write code, I craft secure digital experiences that make a difference"*
 
 🔐 **Strong expertise in Security, Authentication & Authorization**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Engineer;Problem+Solver;Coffee+%2B+Code+%3D+Magic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Engineer;Security+Expert;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,11 +52,11 @@ I transform ideas into reality through code. Whether it's building responsive we
 
 | Technology | Experience | Superpower |
 |------------|------------|------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Advanced | Dynamic UIs |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | Advanced | Type-Safe Development |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Expert | Component Architecture |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Expert | Semantic Markup |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Advanced | Pixel-Perfect Designs |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Intermediate | Dynamic UIs |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | Intermediate | Type-Safe Development |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Intermediate | Component Architecture |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Intermediate | Semantic Markup |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Intermediate | Pixel-Perfect Designs |
 
 </div>
 
@@ -202,6 +202,8 @@ I transform ideas into reality through code. Whether it's building responsive we
 - 🌱 Exploring advanced blockchain development patterns
 - 🤝 Open to collaborating on innovative projects
 - 💬 Ask me about full-stack development, blockchain, or coffee ☕
+
+---
 
 ---
 
