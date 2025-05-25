@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Full-Stack Developer | Blockchain Enthusiast | Code Architect
+### 🚀 Full-Stack Developer | Blockchain Enthusiast | Software Architect
 
 *"I don't just write code, I craft secure digital experiences that make a difference"*
 
