@@ -2,11 +2,9 @@
 
 <div align="center">
   
-### 🚀 Full-Stack Developer | Blockchain Enthusiast | Security Expert
+### 🚀 Full-Stack Developer | Blockchain Enthusiast | Code Architect
 
 *"I don't just write code, I craft secure digital experiences that make a difference"*
-
-🔐 **Strong expertise in Security, Authentication & Authorization**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Engineer;Security+Expert;Problem+Solver)](https://git.io/typing-svg)
 
