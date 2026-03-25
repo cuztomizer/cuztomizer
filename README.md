@@ -182,7 +182,7 @@ I transform ideas into reality through code. Whether it's building responsive we
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuztomizer&show_icons=true&theme=dark&bg_color=0d1117&border_color=6B8E23&title_color=6B8E23&icon_color=6B8E23&text_color=ffffff"/>
 
-<img height="180em" src=https://github-readme-stats.vercel.app/api?username=cuztomizer&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&border_color=6B8E23&title_color=6B8E23&icon_color=6B8E23&text_color=ffffff/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuztomizer&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&border_color=6B8E23&title_color=6B8E23&icon_color=6B8E23&text_color=ffffff"/>
 
 
 
