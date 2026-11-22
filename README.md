@@ -1,7 +1,11 @@
 # I am Gabriel Jimenez
 
 <div align="center">
-  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabrieljimenez.io-6B8E23?style=for-the-badge)](https://gabrieljimenez.io)
+
+Portfolio: https://gabrieljimenez.io
+
 ### 🚀 Full-Stack Developer | Blockchain Enthusiast | Software Architect
 
 *"I don't just write code, I craft secure digital experiences that make a difference"*
